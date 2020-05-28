@@ -1,1 +1,1 @@
-# python-ethereum-examples
+Some random examples of Python, Web3, Ethereum
